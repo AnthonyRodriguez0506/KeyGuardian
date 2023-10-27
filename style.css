@@ -1,0 +1,23 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
+
+#btnGenerate {
+    font-weight: bold;
+}
+
+#generatedPassword {
+    font-size: 18px;
+}
+
+#copyIcon {
+    font-size: 40px;
+}
